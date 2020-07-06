@@ -1,0 +1,4 @@
+#Mon Jul 06 10:27:44 MMT 2020
+base.0=G\:\\Android_Bootcamp\\Flutter\\moolax\\final\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
